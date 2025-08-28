@@ -1,5 +1,5 @@
 # My First Coding Assignment
-![Chifuyu Matsuno from the hit anime Tokyo Revengers](23d9624d2a715e0063615201918346b5.gif)
+![Chifuyu Matsuno from the hit anime Tokyo Revengers](chifuyu.gif)
 ## About Me
 My name is Bayani Cabigting, or just Bay for short. I love making art and sewing cosplays, and I love to collect vintage toys like Furbys and eccentric porcelain clown dolls. I miss Munch's Make Believe Band every day.
 ## Past Coding Experience
